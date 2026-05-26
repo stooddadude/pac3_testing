@@ -1,0 +1,5 @@
+VertexLitGeneric {
+	$basetexture "materials/cuered2"
+	$bumpmap "dev/bump_normal"
+	$phong "1"
+}
